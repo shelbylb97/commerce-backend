@@ -18,5 +18,4 @@ SO THAT my company can compete with other e-commerce companies
 
 
 #### links
-##### https://shelbylb97.github.io/commerce-backend/
 ##### https://github.com/shelbylb97/commerce-backend
